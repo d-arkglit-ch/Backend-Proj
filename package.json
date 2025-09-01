@@ -1,0 +1,12 @@
+{
+  "name": "phase3",
+  "version": "1.0.0",
+  "description": "a backend project with chai and code ",
+  "license": "ISC",
+  "author": "Shourya gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
